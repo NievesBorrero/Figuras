@@ -6,14 +6,14 @@ package figuras.estructuras;
 import java.util.ArrayList;
 import java.util.ListIterator;
 
-import exMarzo2017_NievesBorrero.excepciones.DimensionNoValidaException;
-import exMarzo2017_NievesBorrero.excepciones.FiguraNoExisteException;
-import exMarzo2017_NievesBorrero.excepciones.ListaVaciaException;
-import exMarzo2017_NievesBorrero.jerarquiaFiguras.Circulo;
-import exMarzo2017_NievesBorrero.jerarquiaFiguras.Cuadrado;
-import exMarzo2017_NievesBorrero.jerarquiaFiguras.FiguraCerrada;
-import exMarzo2017_NievesBorrero.jerarquiaFiguras.Rectangulo;
-import exMarzo2017_NievesBorrero.jerarquiaFiguras.Triangulo;
+import figuras.excepciones.DimensionNoValidaException;
+import figuras.excepciones.FiguraNoExisteException;
+import figuras.excepciones.ListaVaciaException;
+import figuras.jerarquiaFiguras.Circulo;
+import figuras.jerarquiaFiguras.Cuadrado;
+import figuras.jerarquiaFiguras.FiguraCerrada;
+import figuras.jerarquiaFiguras.Rectangulo;
+import figuras.jerarquiaFiguras.Triangulo;
 
 public class Figuritas {
 
