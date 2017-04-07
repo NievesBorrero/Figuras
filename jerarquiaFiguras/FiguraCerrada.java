@@ -1,4 +1,4 @@
-package exMarzo2017_NievesBorrero.jerarquiaFiguras;
+package figuras.jerarquiaFiguras;
 
 import exMarzo2017_NievesBorrero.excepciones.DimensionNoValidaException;
 
