@@ -1,4 +1,4 @@
-package exMarzo2017_NievesBorrero.estructuras;
+package Figuras.estructuras;
 /**
  * Clase para manejar una lista de figuras.
  * @author Nieves Borrero.
@@ -30,7 +30,7 @@ public class Figuritas {
 	}
 
 	/**
-	 * AÒade un rect·ngulo
+	 * A√±ade un rect√°ngulo
 	 * 
 	 * @param base
 	 * @param altura
@@ -42,7 +42,7 @@ public class Figuritas {
 	}
 
 	/**
-	 * AÒade un cuadrado
+	 * A√±ade un cuadrado
 	 * 
 	 * @param lado
 	 * @throws DimensionNoValidaException
@@ -52,7 +52,7 @@ public class Figuritas {
 	}
 
 	/**
-	 * AÒade un cÌrculo.
+	 * A√±ade un c√≠rculo.
 	 * 
 	 * @param radio
 	 * @throws DimensionNoValidaException
@@ -62,7 +62,7 @@ public class Figuritas {
 	}
 
 	/**
-	 * AÒade un tri·ngulo.
+	 * A√±ade un tri√°ngulo.
 	 * 
 	 * @param base
 	 * @param altura
@@ -74,7 +74,7 @@ public class Figuritas {
 	}
 
 	/**
-	 * AÒade tres figuras de cada tipo con dimensiones aleatorias.
+	 * A√±ade tres figuras de cada tipo con dimensiones aleatorias.
 	 * 
 	 * @throws ListaVaciaException
 	 * @throws DimensionNoValidaException
@@ -118,7 +118,7 @@ public class Figuritas {
 	}
 
 	/**
-	 * Elimina una figura por Ìndice.
+	 * Elimina una figura por √≠ndice.
 	 * 
 	 * @param index
 	 */
@@ -163,7 +163,7 @@ public class Figuritas {
 	}
 
 	/**
-	 * Comprueba si la lista est· vacÌa.
+	 * Comprueba si la lista est√° vac√≠a.
 	 * 
 	 * @throws ListaVaciaException
 	 */
@@ -175,7 +175,7 @@ public class Figuritas {
 	}
 
 	/**
-	 * Lista los tri·ngulos.
+	 * Lista los tri√°ngulos.
 	 * 
 	 * @return cadena
 	 * @throws ListaVaciaException
