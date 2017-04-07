@@ -3,10 +3,10 @@ package figuras.presentacion;
 /**
  * @author Nieves Borrero
  */
-import exMarzo2017_NievesBorrero.estructuras.Figuritas;
-import exMarzo2017_NievesBorrero.excepciones.DimensionNoValidaException;
-import exMarzo2017_NievesBorrero.excepciones.FiguraNoExisteException;
-import exMarzo2017_NievesBorrero.excepciones.ListaVaciaException;
+import figuras.estructuras.Figuritas;
+import figuras.excepciones.DimensionNoValidaException;
+import figuras.excepciones.FiguraNoExisteException;
+import figuras.excepciones.ListaVaciaException;
 import utiles.Menu;
 import utiles.Teclado;
 
