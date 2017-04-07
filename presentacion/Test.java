@@ -1,4 +1,4 @@
-package exMarzo2017_NievesBorrero.presentacion;
+package figuras.presentacion;
 
 /**
  * @author Nieves Borrero
