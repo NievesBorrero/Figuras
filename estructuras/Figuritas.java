@@ -1,4 +1,4 @@
-package Figuras.estructuras;
+package figuras.estructuras;
 /**
  * Clase para manejar una lista de figuras.
  * @author Nieves Borrero.
