@@ -3,7 +3,7 @@ package exMarzo2017_NievesBorrero.jerarquiaFiguras;
 import exMarzo2017_NievesBorrero.excepciones.DimensionNoValidaException;
 
 /**
- * Clase padre de figuras cerradas.
+ * Clase padre de la que heredan los distintos tipos de figuras cerradas.
  * @author Nieves Borrero.
  */
 
@@ -23,14 +23,14 @@ public abstract class FiguraCerrada {
 	}
 
 	/**
-	 * Calcula el perímetro de la figura.
+	 * Calcula el perÃ­metro de la figura.
 	 * 
 	 * @return decimal
 	 */
 	protected abstract double perimetro();
 
 	/**
-	 * Calcula el área de la figura.
+	 * Calcula el Ã¡rea de la figura.
 	 * 
 	 * @return decimal
 	 */
@@ -41,7 +41,7 @@ public abstract class FiguraCerrada {
 	}
 
 	/**
-	 * Identifica cada figura con un código único autoincrementable.
+	 * Identifica cada figura con un cÃ³digo Ãºnico autoincrementable.
 	 * 
 	 * @param codigo
 	 */
@@ -50,7 +50,7 @@ public abstract class FiguraCerrada {
 	}
 
 	/**
-	 * Comprueba si la dimensión es válida
+	 * Comprueba si la dimensiÃ³n es vÃ¡lida
 	 * 
 	 * @throws DimensionNoValidaException
 	 */
