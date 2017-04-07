@@ -161,7 +161,7 @@ public class Test {
 				altasSelectivas();
 				break;
 			case 3:
-				return;
+				break;
 			}
 		} while (opcion != menuAltas.SALIR);
 
