@@ -1,4 +1,4 @@
-package Figuras.excepciones;
+package figuras.excepciones;
 
 public class FiguraNoExisteException extends Exception {
 
