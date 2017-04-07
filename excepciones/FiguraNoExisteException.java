@@ -1,4 +1,4 @@
-package exMarzo2017_NievesBorrero.excepciones;
+package Figuras.excepciones;
 
 public class FiguraNoExisteException extends Exception {
 
