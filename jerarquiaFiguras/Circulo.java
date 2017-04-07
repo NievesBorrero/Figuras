@@ -1,9 +1,9 @@
-package exMarzo2017_NievesBorrero.jerarquiaFiguras;
+package figuras.jerarquiaFiguras;
 
 import exMarzo2017_NievesBorrero.excepciones.DimensionNoValidaException;
 
 /**
- * Clase que permite la creación de círculos.
+ * Clase que permite la creaciÃ³n de cÃ­rculos.
  * @author Nieves Borrero
  *
  */
