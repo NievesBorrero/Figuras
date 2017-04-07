@@ -1,9 +1,9 @@
-package exMarzo2017_NievesBorrero.jerarquiaFiguras;
+package figuras.jerarquiaFiguras;
 
 import exMarzo2017_NievesBorrero.excepciones.DimensionNoValidaException;
 
 /**
- * Clase que permite la creaciÛn de un cuadrado, que hereda de rect·ngulo.
+ * Clase que permite la creaci√≥n de un cuadrado, que hereda de rect√°ngulo.
  * @author Nieves Borrero
  *
  */
