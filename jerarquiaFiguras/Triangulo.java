@@ -1,6 +1,6 @@
 package figuras.jerarquiaFiguras;
 
-import exMarzo2017_NievesBorrero.excepciones.DimensionNoValidaException;
+import figuras.excepciones.DimensionNoValidaException;
 
 /**
  * Clase que permite la creación de un triángulo, que hereda de FiguraCerrada.
