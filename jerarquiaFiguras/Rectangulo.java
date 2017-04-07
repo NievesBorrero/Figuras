@@ -1,9 +1,9 @@
-package exMarzo2017_NievesBorrero.jerarquiaFiguras;
+package figuras.jerarquiaFiguras;
 
 import exMarzo2017_NievesBorrero.excepciones.DimensionNoValidaException;
 
 /**
- * Clase que permite la creaciÛn de un rect·ngulo, que hereda de FiguraCerrada.
+ * Clase que permite la creaci√≥n de un rect√°ngulo, que hereda de FiguraCerrada.
  * 
  * @author Nieves Borrero.
  */
